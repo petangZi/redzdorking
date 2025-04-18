@@ -6,7 +6,7 @@ Auto SQL Injection Scanner via Termux (Tanpa VPS!)
 
 ## 🚀 Cara Pakai
 
-
+bash
 pkg install curl grep git -y
 
 git clone https://github.com/USERNAME/redzdorking
