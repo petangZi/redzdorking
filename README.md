@@ -15,4 +15,4 @@ cd redzdorking
 
 chmod +x redzdorking.sh
 
-./redzdorking.sh
+bash redzdorking.sh
