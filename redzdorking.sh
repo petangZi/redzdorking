@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# REDZDORKING v3.1 UI BY KING REDZ 😈
+# REDZDORKING v1 UI BY KING REDZ 😈
 # ==============================
 # Full SQLI + PARAM SCAN + VULN CHECK
 # SAVE TO /storage/emulated/0/resultDorkredz
