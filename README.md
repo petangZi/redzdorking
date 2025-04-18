@@ -9,7 +9,7 @@ Auto SQL Injection Scanner via Termux (Tanpa VPS!)
 bash
 pkg install curl grep git -y
 
-git clone https://github.com/USERNAME/redzdorking
+git clone https://github.com/petangZi/redzdorking
 
 cd redzdorking
 
